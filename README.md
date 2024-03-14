@@ -3,11 +3,11 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brosda90&label=Profile%20views&color=0e75b6&style=flat" alt="brosda90" /> </p>
 
-- 🔭 I’m currently working on [Da-Bubble](https://github.com/brosda90/DA-Bubble)
+- 🔭 I’m currently working on [VibraLink](https://github.com/brosda90/vibralink)
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [sebastianbrosda.de](sebastianbrosda.de)
+- 👨‍💻 All of my projects are available at [https://sebastianbrosda.de](sebastianbrosda.de)
 
 - 📫 How to reach me **hi@sebastianbrosda.de**
 
