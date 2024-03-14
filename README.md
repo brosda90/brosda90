@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://sebastianbrosda.de](sebastianbrosda.de)
+- 👨‍💻 All of my projects are available at [sebastianbrosda.de](https://sebastianbrosda.de)
 
 - 📫 How to reach me **hi@sebastianbrosda.de**
 
